@@ -1,0 +1,12 @@
+BODY BG COLOR - #F8F6F4
+blue color(logo) - #38B6FF
+grey-  #e6dfd8da
+
+#0000aaa - blue
+#ffffff - white
+#ff8f05 - red
+#ff8505 - yellow
+
+
+purple - #5F4D9F
+beige - #E69A8D
